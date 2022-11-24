@@ -1,0 +1,52 @@
+{
+  "input": [
+    {
+      "id": 1,
+      "type": "text",
+      "label": "Имя",
+      "value": "text"
+    },
+    {
+      "id": 2,
+      "type": "number",
+      "label": "Возраст",
+      "value": "number"
+    },
+    {
+      "id": 3,
+      "type": "select",
+      "label": "Место рождения",
+      "options": [
+        {
+          "id": 1,
+          "label": "Не важно",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "label": "Астрахань"
+        },
+        {
+          "id": 3,
+          "label": "Волгоград"
+        },
+        {
+          "id": 4,
+          "label": "Волжский"
+        },
+        {
+          "id": 5,
+          "label": "Ростов-на-Дону"
+        },
+        {
+          "id": 6,
+          "label": "Саратов"
+        },
+        {
+          "id": 6,
+          "label": "Элиста"
+        }
+      ]
+    }
+  ]
+}

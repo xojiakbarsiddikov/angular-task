@@ -1,0 +1,24 @@
+.example-form label{
+  width: 140px;
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+
+select {
+  width: 300px;
+  height: 44px;
+  background: #FFFFFF;
+  border: 1px solid #C3C3C3;
+  border-radius: 3px;
+  outline: none;
+  padding: 8px;
+  display: block;
+  margin: 20px 0;
+}
+
+select option {
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
